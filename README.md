@@ -27,8 +27,8 @@
 └──╼ $ whoami --verbose
 
   role        CTO @ Easy Team (since 2020) · hands-on full-stack architect
-  team        10–16 engineers, up to 30 with remote contributors
-  shipping    9,400+ commits across 60+ repositories since 2025
+  team        leading the engineering team, still shipping code every day
+  ships       web · iOS · Android · APIs · AI · infrastructure
   focus       real-time · multi-tenant SaaS · payments · AI agents · mobile
   languages   English · العربية · کوردی  (RTL-first products)
   status      open to remote senior / staff / architect / CTO roles & contracts
@@ -38,16 +38,15 @@
 
 | | Product | What it is | Highlights |
 |:-:|---|---|---|
-| 💬 | **[EasyLiveChat](https://livechattools.com)** | Omni-channel customer support SaaS | Web, WhatsApp, Messenger, Telegram, Instagram in one inbox · RAG AI agent capped at 2 LLM calls per turn that hands uncertain cases to a human · first commit to production in 4 months · native Swift & Kotlin agent apps |
-| 🍽️ | **[eMenuAI](https://e-menu.ai)** | Restaurant SaaS | QR menus, ordering, reservations, billing · 5 payment gateways (Stripe, Tap, FIB, PayPal, Square) · reseller payouts · 100+ languages with RTL · ~70% of 3,300+ commits |
-| ✨ | **MyTwin** | AI digital-twin social app | Native SwiftUI iOS app (Arabic/English RTL) · NestJS API with BullMQ workers · PostgreSQL + pgvector · Gemini-based user model |
-| 📱 | **GsmZone** | Digital-services & eSIM marketplace | Web, iOS (Swift) and Android (Kotlin) · internal wallet & platform fees · real-time buyer/seller chat · 2,300+ commits |
-| 🦀 | **Koala** | Mobile-servicing platform | MediaTek BROM/DA & META USB protocol stacks in pure Rust (Tauri), verified on real hardware with no closed-source vendor DLLs · Bun/Hono API · Next.js dashboard |
-| 🧾 | **SwiftPOS** | Offline-first point of sale | IndexedDB write queue with temp-ID reconciliation · FEFO batch allocation inside the sale transaction · 9 languages (3 RTL) · [Docker release](https://github.com/nullsam/swiftpos-release) |
-| 🏠 | **Hasso** | Kurdistan real-estate CRM | 100% Sorani Kurdish RTL · property matchmaking · USD/IQD finance engine · branded printable contracts |
-| 🌾 | **granumOS** | Grain trade & logistics (client) | Exact-decimal RUB/USD accounting · Russian/English crop-management SaaS |
+| 💬 | **[EasyLiveChat](https://livechattools.com)** | Omni-channel customer support SaaS | Web chat, WhatsApp, Messenger, Telegram and Instagram in one real-time inbox · RAG AI agent that answers from your own knowledge and hands uncertain cases to a human · native iOS & Android agent apps |
+| 🍽️ | **[eMenuAI](https://e-menu.ai)** | Restaurant SaaS | QR menus, ordering, reservations, billing · multiple payment gateways (Stripe, Tap, FIB, PayPal, Square) · reseller payouts · 100+ menu languages with RTL |
+| ✨ | **[MyTwin](https://mytwin.pro)** | AI digital-twin social app | Native SwiftUI iOS app (Arabic/English RTL) · NestJS API with background workers · PostgreSQL + pgvector · Gemini-based user model |
+| 📱 | **[GsmZone](https://www.gsmzone.com)** | Mobile solutions & eSIM marketplace | Web, iOS (Swift) and Android (Kotlin) · internal wallet & platform fees · real-time buyer/seller chat |
+| 🧾 | **[SwiftPOS](https://swift.samserver.dev)** | Offline-first point of sale | Keeps selling when the internet drops: local write queue that syncs and reconciles · batch-aware stock · multilingual with RTL · [Docker release](https://github.com/nullsam/swiftpos-release) |
+| 🏠 | **[Hasso · Bayar Sendi](https://bayarsendi.com)** | Kurdistan real-estate CRM | Fully Kurdish RTL · property matchmaking · USD/IQD finance engine · branded printable contracts |
+| 🌾 | **[granumOS](https://alaaagrotraid.com)** | Grain trade & crop management (client) | Two connected systems for a grain importer: field crop management and exact-decimal money tracking · Russian/English |
 
-> 🛡️ **Incident response:** restored a 42,000-user platform after an SQL-injection attack: 41,969 records rebuilt from a pre-attack snapshot, $48K of balances reconciled from the ledger, then hardened with WAF rules, a private database, binary logging and 2FA.
+> 🛡️ **Incident response:** brought a large user platform back after an SQL-injection attack: rebuilt the user records from a pre-attack snapshot, reconciled every balance from the ledger to the cent, then hardened it with WAF rules, a private database, binary logging and 2FA.
 
 ## 🧰 Tech stack
 
@@ -56,7 +55,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,docker,aws,cloudflare,linux,git&perline=9" alt="Data and infrastructure"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,rust,tauri,go,vite,github,vscode&perline=9" alt="Mobile, native and tools"/>
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,rust,go,vite,github,vscode&perline=9" alt="Mobile, native and tools"/>
 </p>
 
 <p align="center">

@@ -11,20 +11,7 @@
 </picture>
 
 <br/>
-<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,bun,nestjs,go,py&perline=8" alt="TypeScript, Next.js, React, Node.js, Bun, NestJS, Go, Python" height="40"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,rust,postgres,redis,docker,cloudflare,linux&perline=8" alt="Swift, Kotlin, Rust, PostgreSQL, Redis, Docker, Cloudflare, Linux" height="40"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://samserver.dev">samserver.dev</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:info@samserver.dev">info@samserver.dev</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nullsam">LinkedIn</a>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,bun,go,py,swift,kotlin,rust,postgres,redis,docker,cloudflare&perline=14" alt="TypeScript, Next.js, React, Node.js, Bun, Go, Python, Swift, Kotlin, Rust, PostgreSQL, Redis, Docker, Cloudflare" height="34"/>
 </p>

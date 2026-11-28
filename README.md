@@ -13,11 +13,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,c,cpp,rust,swift,kotlin,php,dart,bash&perline=12" alt="TypeScript, JavaScript, Python, Go, C, C++, Rust, Swift, Kotlin, PHP, Dart, Bash" height="36"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,rust,swift,kotlin,php,dart,bash&perline=11" alt="TypeScript, JavaScript, Python, Go, C++, Rust, Swift, Kotlin, PHP, Dart, Bash" height="36"/>
   <img src="./assets/tile-asm.svg" alt="Assembly" height="36"/>
   <img src="./assets/tile-hex.svg" alt="Hex" height="36"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,express,nextjs,react,tailwind,flutter,tauri,graphql,prisma,vitest&perline=12" alt="Node.js, Bun, NestJS, Express, Next.js, React, Tailwind, Flutter, Tauri, GraphQL, Prisma, Vitest" height="36"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,docker,linux,cloudflare,githubactions,git&perline=9" alt="PostgreSQL, MySQL, Redis, SQLite, Docker, Linux, Cloudflare, GitHub Actions, Git" height="36"/>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,sqlite,docker,linux,cloudflare,githubactions,git&perline=8" alt="MySQL, Redis, SQLite, Docker, Linux, Cloudflare, GitHub Actions, Git" height="36"/>
 </p>

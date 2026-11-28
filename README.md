@@ -13,5 +13,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,bun,go,py,swift,kotlin,rust,postgres,redis,docker,cloudflare&perline=14" alt="TypeScript, Next.js, React, Node.js, Bun, Go, Python, Swift, Kotlin, Rust, PostgreSQL, Redis, Docker, Cloudflare" height="34"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,c,cpp,rust,swift,kotlin,php,dart,bash&perline=12" alt="TypeScript, JavaScript, Python, Go, C, C++, Rust, Swift, Kotlin, PHP, Dart, Bash" height="36"/>
+  <img src="./assets/tile-asm.svg" alt="Assembly" height="36"/>
+  <img src="./assets/tile-hex.svg" alt="Hex" height="36"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,express,nextjs,react,tailwind,flutter,tauri,graphql,prisma,vitest&perline=12" alt="Node.js, Bun, NestJS, Express, Next.js, React, Tailwind, Flutter, Tauri, GraphQL, Prisma, Vitest" height="36"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,docker,linux,cloudflare,githubactions,git&perline=9" alt="PostgreSQL, MySQL, Redis, SQLite, Docker, Linux, Cloudflare, GitHub Actions, Git" height="36"/>
 </p>
